@@ -1,7 +1,7 @@
 document.documentElement.classList.add("js");
 
 const SITE_CONFIG = {
-  SUPPORT_EMAIL: "YOUR_SUPPORT_EMAIL",
+  SUPPORT_EMAIL: "vokkop01@gmail.com",
   GITHUB_ISSUES_URL: "https://github.com/Greathao/FitAlarm-Legal/issues"
 };
 
